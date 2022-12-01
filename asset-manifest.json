@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web-app/static/css/main.8aee7650.css",
+    "main.js": "/web-app/static/js/main.4e94a832.js",
+    "static/js/787.66c8558c.chunk.js": "/web-app/static/js/787.66c8558c.chunk.js",
+    "static/media/Lalith.webp": "/web-app/static/media/Lalith.7824195c7f641077cc7b.webp",
+    "static/media/Soumyadeep.webp": "/web-app/static/media/Soumyadeep.19b61cfb5fabc8b54fd0.webp",
+    "static/media/logotext.png": "/web-app/static/media/logotext.9ecf2278867b5805adfd.png",
+    "static/media/Sanidhya.webp": "/web-app/static/media/Sanidhya.6d61cc20d9d6b545819a.webp",
+    "static/media/dashtoon-logo.png": "/web-app/static/media/dashtoon-logo.a8078db575978f3185c8.png",
+    "index.html": "/web-app/index.html",
+    "main.8aee7650.css.map": "/web-app/static/css/main.8aee7650.css.map",
+    "main.4e94a832.js.map": "/web-app/static/js/main.4e94a832.js.map",
+    "787.66c8558c.chunk.js.map": "/web-app/static/js/787.66c8558c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aee7650.css",
+    "static/js/main.4e94a832.js"
+  ]
+}
